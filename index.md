@@ -21,6 +21,7 @@ I'm interested in the brand new majority:Computer music(music technology),which 
 Computer music production mainly takes computer as the control center, MIDI technology and digital audio technology as the control means and information exchange language, synthesizer and sampler, etc.Many overseas university have set this course such as Carnegie Mellon University and Stanford University.
 I am trying to learn more about music and computer and read some papers in this field and I hope I can do a job relating to it.
 
+### My photos
 < img src="https://Felix030820.github.io/Felix01.jpg" width="256" height="342" alt="Felix"/><br/>
 
 ### Support or Contact
