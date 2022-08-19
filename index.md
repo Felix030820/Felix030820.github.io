@@ -22,6 +22,7 @@ Computer music production mainly takes computer as the control center, MIDI tech
 I am trying to learn more about music and computer and read some papers in this field and I hope I can do a job relating to it.
 
 < img src="https://Felix030820.github.io/images/profile.jpg" width="256" height="342" alt="Felix"/><br/>
+
 ### Support or Contact
 e-mail:Felix030820@outlook.com
 phone number: 18935095456
